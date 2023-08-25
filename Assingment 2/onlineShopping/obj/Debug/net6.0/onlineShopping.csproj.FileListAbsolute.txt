@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\bin\Debug\net6.0\onlineShopping.exe
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\bin\Debug\net6.0\onlineShopping.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\bin\Debug\net6.0\onlineShopping.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\bin\Debug\net6.0\onlineShopping.dll
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\bin\Debug\net6.0\onlineShopping.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.dll
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\refint\onlineShopping.dll
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\onlineShopping.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineShopping\obj\Debug\net6.0\ref\onlineShopping.dll

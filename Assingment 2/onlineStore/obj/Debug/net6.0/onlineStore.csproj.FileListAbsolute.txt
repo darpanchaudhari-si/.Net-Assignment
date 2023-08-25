@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\bin\Debug\net6.0\onlineStore.exe
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\bin\Debug\net6.0\onlineStore.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\bin\Debug\net6.0\onlineStore.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\bin\Debug\net6.0\onlineStore.dll
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\bin\Debug\net6.0\onlineStore.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.dll
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\refint\onlineStore.dll
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\onlineStore.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\onlineStore\obj\Debug\net6.0\ref\onlineStore.dll

@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\bin\Debug\net6.0\pay slip.exe
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\bin\Debug\net6.0\pay slip.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\bin\Debug\net6.0\pay slip.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\bin\Debug\net6.0\pay slip.dll
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\bin\Debug\net6.0\pay slip.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.dll
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\refint\pay slip.dll
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\pay slip.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\pay slip\obj\Debug\net6.0\ref\pay slip.dll

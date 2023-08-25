@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inventory sysytem for online store/1.0.0": {
+        "runtime": {
+          "inventory sysytem for online store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inventory sysytem for online store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

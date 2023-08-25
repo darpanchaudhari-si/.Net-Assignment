@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\bin\Debug\net6.0\datatypesDemo.exe
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\bin\Debug\net6.0\datatypesDemo.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\bin\Debug\net6.0\datatypesDemo.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\bin\Debug\net6.0\datatypesDemo.dll
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\bin\Debug\net6.0\datatypesDemo.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.dll
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\refint\datatypesDemo.dll
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\datatypesDemo.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\datatypesDemo\obj\Debug\net6.0\ref\datatypesDemo.dll

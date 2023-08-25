@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\bin\Debug\net6.0\alphabecticalor.exe
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\bin\Debug\net6.0\alphabecticalor.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\bin\Debug\net6.0\alphabecticalor.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\bin\Debug\net6.0\alphabecticalor.dll
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\bin\Debug\net6.0\alphabecticalor.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.dll
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\refint\alphabecticalor.dll
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\alphabecticalor.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\alphabecticalor\obj\Debug\net6.0\ref\alphabecticalor.dll

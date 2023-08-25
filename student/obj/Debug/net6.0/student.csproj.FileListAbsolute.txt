@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\student\bin\Debug\net6.0\student.exe
+C:\Users\Darpan.chaudhari\Documents\C#\student\bin\Debug\net6.0\student.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\student\bin\Debug\net6.0\student.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\student\bin\Debug\net6.0\student.dll
+C:\Users\Darpan.chaudhari\Documents\C#\student\bin\Debug\net6.0\student.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.dll
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\refint\student.dll
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\student.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\student\obj\Debug\net6.0\ref\student.dll

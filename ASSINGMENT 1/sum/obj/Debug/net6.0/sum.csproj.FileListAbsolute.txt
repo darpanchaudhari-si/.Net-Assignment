@@ -1,0 +1,5 @@
+C:\Users\Darpan.chaudhari\Documents\C#\sum\obj\Debug\net6.0\sum.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\sum\obj\Debug\net6.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\sum\obj\Debug\net6.0\sum.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\sum\obj\Debug\net6.0\sum.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\sum\obj\Debug\net6.0\sum.csproj.CoreCompileInputs.cache

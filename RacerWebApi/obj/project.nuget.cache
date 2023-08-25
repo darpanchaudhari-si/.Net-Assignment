@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmFWDVw7H0Zy+KpxBv0gBaEYY4BRO9SlJVq4agi/BWEaP0qhTqqBtsQTtNF2rL93CRQ4eG2zze1g/3VmL4Gtqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darpan.chaudhari\\Documents\\C#\\RacerWebApi\\RacerWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darpan.chaudhari\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Darpan.chaudhari\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Darpan.chaudhari\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Darpan.chaudhari\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Darpan.chaudhari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Darpan.chaudhari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

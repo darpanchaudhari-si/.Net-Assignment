@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\bin\Debug\net6.0\4.Student Grading System with Exception Handling.exe
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\bin\Debug\net6.0\4.Student Grading System with Exception Handling.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\bin\Debug\net6.0\4.Student Grading System with Exception Handling.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\bin\Debug\net6.0\4.Student Grading System with Exception Handling.dll
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\bin\Debug\net6.0\4.Student Grading System with Exception Handling.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.dll
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\refint\4.Student Grading System with Exception Handling.dll
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\4.Student Grading System with Exception Handling.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\4.Student Grading System with Exception Handling\obj\Debug\net6.0\ref\4.Student Grading System with Exception Handling.dll

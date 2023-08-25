@@ -1,0 +1,15 @@
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\bin\Debug\net6.0\copyelements.exe
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\bin\Debug\net6.0\copyelements.deps.json
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\bin\Debug\net6.0\copyelements.runtimeconfig.json
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\bin\Debug\net6.0\copyelements.dll
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\bin\Debug\net6.0\copyelements.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.csproj.AssemblyReference.cache
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.AssemblyInfoInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.AssemblyInfo.cs
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.csproj.CoreCompileInputs.cache
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.dll
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\refint\copyelements.dll
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.pdb
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\copyelements.genruntimeconfig.cache
+C:\Users\Darpan.chaudhari\Documents\C#\copyelements\obj\Debug\net6.0\ref\copyelements.dll
